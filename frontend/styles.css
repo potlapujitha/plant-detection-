@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background:#f6f8fa; padding:24px; }
+.card { background: white; padding:20px; border-radius:8px; width:360px; margin: 0 auto; box-shadow:0 2px 8px rgba(0,0,0,0.08); }
+.hidden { display:none; }
+input { display:block; width:100%; padding:8px; margin:8px 0; }
+button { padding:8px 12px; margin-top:8px; cursor:pointer; }
+.muted { color:#666; font-size:13px; }
+.result pre { background:#f4f4f4; padding:12px; border-radius:6px; overflow:auto; }
+.error { color: #a00; margin-top:8px; }
